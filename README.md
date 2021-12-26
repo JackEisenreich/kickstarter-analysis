@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+
 **Overview of Project:**
 
 The purpose of this analysis was to determine how kickstarter campaigns faired based on 2 separate variables. Those 2 variables were the start date of the campaign and the dollar goal set forth prior to the campaign beginning. In particular, we looked at theater kickstarters as a whole for the start date portion of the analysis and we looked at the plays sub-category of theater for the goal portion of the analysis. From this analysis we were able to determine trends within the data to see whether it is more beneficial for the campaign to start at a particular time of year and which goal range is most likely to lead to a successful campaign.
